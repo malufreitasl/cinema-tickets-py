@@ -6,15 +6,15 @@ Developed as a mini Python project during a Data Analysis program using a Databa
 
 ## Project Requirements
 
-**Register Elements:**: users can register elements into the system.
+**Register Elements:** users can register elements into the system.
 
-**Query Elements:**: the system provides a feature to query or retrieve information about registered elements.
+**Query Elements:** the system provides a feature to query or retrieve information about registered elements.
 
-**Change State of Elements:**: users have the ability to alter the state of registered elements.
+**Change State of Elements:** users have the ability to alter the state of registered elements.
 
-**View Records by State or Element:**: functionality to view records based on their state or the specific element they are associated with.
+**View Records by State or Element:** functionality to view records based on their state or the specific element they are associated with.
 
-**View Records by Time Window:**: users can view records within a specified time period.
+**View Records by Time Window:** users can view records within a specified time period.
 
 ## Overview
 
